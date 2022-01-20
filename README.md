@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @manaliindulkar
 - 👀 I’m interested in python ,java .
 - 🌱 I’m currently learning Bachelors of Computer Application
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me manaliindular36@gmail.com
 
 <!---
 manaliindulkar/manaliindulkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
